@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL on frontendmentor](https://www.frontendmentor.io/solutions/responsive-faqaccordioncard-using-jquery-and-bootsrtapcomponent-based-dz0liCk_dI)
 - Live Site URL: [live site URL](https://somaye-beiranvand.github.io/faq-accordion-card-main/)
 
 ## My process
@@ -90,4 +90,4 @@ $(".sm-faq-head").on("click", function () {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@somaye-beiranvand](https://www.frontendmentor.io/profile/somaye-beiranvand)
