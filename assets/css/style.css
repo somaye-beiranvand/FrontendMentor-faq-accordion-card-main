@@ -1,7 +1,6 @@
 .container {
   padding: 130px 0;
 }
-
 .sm-box {
   max-width: 920px;
   border-radius: 20px;
@@ -37,7 +36,7 @@
   position: relative;
 }
 .sm-faq-box-img {
-  position: relative;
+  position: absolute;
   left: -129px;
   top: 156px;
 }
