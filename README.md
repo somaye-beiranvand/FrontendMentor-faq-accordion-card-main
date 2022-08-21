@@ -13,8 +13,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -24,8 +22,6 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -44,10 +40,6 @@ Users should be able to:
 - [bootstrap](https://getbootstrap.com/) - For styles
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 ```html
 <!-- component::faq-item starts -->
