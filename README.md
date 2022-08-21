@@ -55,7 +55,7 @@ Users should be able to:
     on team members for the Premium plan.
   </div>
 </div>
-<!-- component::faq-item starts -->
+<!-- component::faq-item ends -->
 ```
 
 ```css
