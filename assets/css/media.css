@@ -2,14 +2,26 @@
 }
 
 @media (min-width: 768px) {
+  .sm-box {
+    max-width: 680px;
+  }
   .sm-faq-box {
     padding-top: 5rem !important;
     padding-bottom: 6rem !important;
   }
   .sm-faq-box-img {
+    width: 115px;
     position: absolute;
-    left: -95px;
-    top: 157px;
+    left: -54px;
+    top: 168px;
+  }
+  .sm-faq-img-desktop {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background: url(../images/illustration-woman-online-desktop.svg) -52px 62px no-repeat,
+      url(../images/bg-pattern-desktop.svg) -345px -178px no-repeat;
+    background-size: 117%, 222%;
   }
 }
 
@@ -22,9 +34,15 @@
     padding-right: 3rem !important;
   }
   .sm-faq-box-img {
+    width: initial;
     position: absolute;
     left: -95px;
     top: 157px;
+  }
+  .sm-faq-img-desktop {
+    background: url(../images/illustration-woman-online-desktop.svg) -77px 38px no-repeat,
+      url(../images/bg-pattern-desktop.svg) -383px -219px no-repeat;
+    background-size: 120%, 200%;
   }
 }
 
