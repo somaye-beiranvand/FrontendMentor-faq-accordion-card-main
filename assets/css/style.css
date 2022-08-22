@@ -34,11 +34,7 @@
   background-size: 120%, 200%;
   position: relative;
 }
-.sm-faq-box-img {
-  position: absolute;
-  left: -95px;
-  top: 170px;
-}
+
 .sm-faq-img-mobile-container {
   margin-top: -160px;
 }

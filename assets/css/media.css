@@ -6,9 +6,26 @@
     padding-top: 5rem !important;
     padding-bottom: 6rem !important;
   }
+  .sm-faq-box-img {
+    position: absolute;
+    left: -95px;
+    top: 157px;
+  }
 }
 
 @media (min-width: 992px) {
+  .sm-box {
+    max-width: 880px;
+  }
+  .sm-faq-box {
+    padding-left: 3rem !important;
+    padding-right: 3rem !important;
+  }
+  .sm-faq-box-img {
+    position: absolute;
+    left: -95px;
+    top: 157px;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -18,6 +35,9 @@
   .sm-faq-box {
     padding-left: 4.5rem !important;
     padding-right: 4.5rem !important;
+  }
+  .sm-faq-box-img {
+    top: 170px;
   }
 }
 
