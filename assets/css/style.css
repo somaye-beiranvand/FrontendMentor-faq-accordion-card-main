@@ -9,7 +9,6 @@
 .sm-faq-head {
   border-bottom: 1px solid var(--sm-Divider-color);
   color: var(--sm-Very-dark-desaturated-blue);
-  width: max-content;
 }
 .sm-faq-head:hover {
   color: var(--sm-color-3);
@@ -18,9 +17,6 @@
 .sm-down-icon {
   width: 15px;
   transition: all 0.5s;
-}
-.sm-faq-head-text-box {
-  width: max-content;
 }
 .sm-faq-body {
   color: var(--sm-secondary);
