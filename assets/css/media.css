@@ -12,6 +12,9 @@
 }
 
 @media (min-width: 1200px) {
+  .sm-box {
+    max-width: 920px;
+  }
   .sm-faq-box {
     padding-left: 4.5rem !important;
     padding-right: 4.5rem !important;
