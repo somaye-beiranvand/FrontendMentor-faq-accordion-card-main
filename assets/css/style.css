@@ -2,7 +2,6 @@
   padding: 130px 0;
 }
 .sm-box {
-  max-width: 920px;
   border-radius: 20px;
   background-color: #fff;
   margin: 0 auto;
@@ -10,6 +9,7 @@
 .sm-faq-head {
   border-bottom: 1px solid var(--sm-Divider-color);
   color: var(--sm-Very-dark-desaturated-blue);
+  width: max-content;
 }
 .sm-faq-head:hover {
   color: var(--sm-color-3);
@@ -18,6 +18,9 @@
 .sm-down-icon {
   width: 15px;
   transition: all 0.5s;
+}
+.sm-faq-head-text-box {
+  width: max-content;
 }
 .sm-faq-body {
   color: var(--sm-secondary);
@@ -35,11 +38,7 @@
   background-size: 120%, 200%;
   position: relative;
 }
-.sm-faq-box-img {
-  position: absolute;
-  left: -129px;
-  top: 156px;
-}
+
 .sm-faq-img-mobile-container {
   margin-top: -160px;
 }

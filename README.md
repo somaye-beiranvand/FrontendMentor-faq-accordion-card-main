@@ -13,8 +13,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -25,11 +23,9 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL on frontendmentor](https://www.frontendmentor.io/solutions/responsive-faqaccordioncard-using-jquery-and-bootsrtapcomponent-based-dz0liCk_dI)
 - Live Site URL: [live site URL](https://somaye-beiranvand.github.io/faq-accordion-card-main/)
 
 ## My process
@@ -45,10 +41,6 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 ```html
 <!-- component::faq-item starts -->
 <div class="sm-faq-item w-100">
@@ -63,7 +55,7 @@ To see how you can add code snippets, see below:
     on team members for the Premium plan.
   </div>
 </div>
-<!-- component::faq-item starts -->
+<!-- component::faq-item ends -->
 ```
 
 ```css
@@ -98,4 +90,4 @@ $(".sm-faq-head").on("click", function () {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@somaye-beiranvand](https://www.frontendmentor.io/profile/somaye-beiranvand)
