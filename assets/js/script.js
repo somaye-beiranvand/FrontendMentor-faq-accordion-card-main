@@ -6,8 +6,8 @@ $(document).ready(function () {
     let sm_box_container_padding = Math.abs(
       (window_height - sm_box_height) / 2
     );
-    if (sm_box_container_padding < 85) {
-      return 85;
+    if (sm_box_container_padding < 90) {
+      return 90;
     } else return sm_box_container_padding;
   }
 
