@@ -4,6 +4,7 @@
 @media (min-width: 768px) {
   .sm-box {
     max-width: 680px;
+    margin-top: 0;
   }
   .sm-faq-box {
     padding-top: 5rem !important;
