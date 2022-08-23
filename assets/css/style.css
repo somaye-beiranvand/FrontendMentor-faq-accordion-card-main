@@ -29,13 +29,9 @@
 }
 /*faq-item end */
 
-.sm-faq-img-mobile-container {
-  margin-top: -128px;
-}
 .sm-faq-img-mobile {
   margin: 0 auto;
-  max-width: 280px;
-  height: 256px;
+  max-width: 100%;
   background: url(../images/illustration-woman-online-mobile.svg) top no-repeat,
     url(../images/bg-pattern-mobile.svg) bottom no-repeat;
   background-size: 100%, 100%;
