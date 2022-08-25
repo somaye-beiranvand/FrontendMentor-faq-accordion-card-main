@@ -6,8 +6,8 @@ $(document).ready(function () {
     let sm_box_container_padding = Math.abs(
       (window_height - sm_box_height) / 2
     );
-    if (sm_box_container_padding < 45) {
-      return 45;
+    if (sm_box_container_padding < 10) {
+      return 10;
     } else return sm_box_container_padding;
   }
   function img_mobile_height_mt_cal() {
