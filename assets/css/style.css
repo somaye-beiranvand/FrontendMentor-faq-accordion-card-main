@@ -5,7 +5,6 @@
   border-radius: 20px;
   background-color: #fff;
   margin: 0 auto;
-  /* margin-top: 8rem; */
 }
 
 /*faq-item starts */
@@ -37,4 +36,7 @@
     url(../images/bg-pattern-mobile.svg) bottom no-repeat;
   background-size: 100%, 100%;
   position: relative;
+}
+.sm-box-img-container {
+  margin: 0 auto;
 }
