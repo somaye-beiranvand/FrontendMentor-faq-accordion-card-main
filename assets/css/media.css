@@ -2,9 +2,6 @@
 }
 
 @media (min-width: 768px) {
-  .sm-box-img-container {
-    max-width: 680px;
-  }
   .sm-box {
     max-width: 680px;
     margin-top: 0;
@@ -14,8 +11,9 @@
     padding-bottom: 6rem !important;
     height: 500px;
     overflow-y: auto;
+    scrollbar-width: none;
   }
-  .sm-faq-box-img {
+  .sm-faq-cube-img {
     width: 115px;
     position: absolute;
     left: -56px;
@@ -29,9 +27,6 @@
 }
 
 @media (min-width: 992px) {
-  .sm-box-img-container {
-    max-width: 880px;
-  }
   .sm-box {
     max-width: 880px;
   }
@@ -39,7 +34,7 @@
     padding-left: 3rem !important;
     padding-right: 3rem !important;
   }
-  .sm-faq-box-img {
+  .sm-faq-cube-img {
     width: initial;
     position: absolute;
     left: -92px;
@@ -54,9 +49,6 @@
 }
 
 @media (min-width: 1200px) {
-  .sm-box-img-container {
-    max-width: 920px;
-  }
   .sm-box {
     max-width: 920px;
   }
@@ -64,7 +56,7 @@
     padding-left: 4.5rem !important;
     padding-right: 4.5rem !important;
   }
-  .sm-faq-box-img {
+  .sm-faq-cube-img {
     top: 206px;
   }
 }
