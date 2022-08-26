@@ -40,10 +40,10 @@
     padding-right: 3rem !important;
   }
   .sm-faq-box-img {
-    width: 148px;
+    width: initial;
     position: absolute;
-    left: -74px;
-    top: 230px;
+    left: -92px;
+    top: 203px;
   }
   .sm-faq-img-desktop {
     background: url(../images/illustration-woman-online-desktop.svg) right
@@ -65,6 +65,6 @@
     padding-right: 4.5rem !important;
   }
   .sm-faq-box-img {
-    top: 230px;
+    top: 206px;
   }
 }

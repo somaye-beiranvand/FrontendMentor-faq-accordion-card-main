@@ -49,6 +49,8 @@
       no-repeat,
     url(../images/bg-pattern-desktop.svg) right -166px no-repeat;
   background-size: 120%, 265%;
+  /* animation: move-up 5s infinite; */
+  /* opacity: 0.5; */
 }
 /* custom scrollbar starts*/
 ::-webkit-scrollbar {
@@ -70,3 +72,16 @@
   background-color: #a8bbbf;
 }
 /* custom scrollbar ends*/
+@keyframes move-up {
+  50% {
+    background-position-y: top;
+  }
+}
+@keyframes show {
+  0% {
+    background-image: none;
+  }
+  100% {
+    background-image: initial;
+  }
+}
