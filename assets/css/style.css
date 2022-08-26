@@ -1,6 +1,6 @@
-/* .container {
-  padding: 130px 0;
-} */
+.container {
+  min-height: 100vh;
+}
 .sm-box {
   max-width: 344px;
   border-radius: 20px;
@@ -47,8 +47,8 @@
   position: relative;
   background: url(../images/illustration-woman-online-desktop.svg) right center
       no-repeat,
-    url(../images/bg-pattern-desktop.svg) -345px -178px no-repeat;
-  background-size: 120%, 222%;
+    url(../images/bg-pattern-desktop.svg) right -166px no-repeat;
+  background-size: 120%, 265%;
 }
 /* custom scrollbar starts*/
 ::-webkit-scrollbar {

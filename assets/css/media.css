@@ -8,7 +8,6 @@
   .sm-box {
     max-width: 680px;
     margin-top: 0;
-    overflow: hidden;
   }
   .sm-faq-box {
     padding-top: 5rem !important;
@@ -49,8 +48,8 @@
   .sm-faq-img-desktop {
     background: url(../images/illustration-woman-online-desktop.svg) right
         center no-repeat,
-      url(../images/bg-pattern-desktop.svg) -383px -219px no-repeat;
-    background-size: 120%, 200%;
+      url(../images/bg-pattern-desktop.svg) right -257px no-repeat;
+    background-size: 120%, 238%;
   }
 }
 
