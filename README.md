@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL on frontendmentor](https://www.frontendmentor.io/solutions/responsive-faqaccordioncard-using-jquery-and-bootsrtapcomponent-based-dz0liCk_dI)
-- Live Site URL: [live site URL](https://somaye-beiranvand.github.io/faq-accordion-card-main/)
+- Live Site URL: [faq-accordion-card-main](https://somaye-beiranvand.github.io/FrontendMentor-faq-accordion-card-main/)
 
 ## My process
 
